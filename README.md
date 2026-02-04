@@ -5,11 +5,6 @@
 - **Matrícula:** Al03043935
 - **Carrera:** Ingeniería en Desarrollo de Software
 - **Semestre:** 8°  
-
-## Datos de la asignatura
-- **Asignatura:** Ingeniería de Software  
-- **Profesor:** Mtro. Juan Pérez  
-
 ---
 
 ## Descripción del proyecto
