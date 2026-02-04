@@ -2,8 +2,8 @@
 
 ## Datos del estudiante
 - **Nombre:** Joshua Arias  
-- **Matrícula:** A00000000  
-- **Carrera:** Ingeniería en Sistemas Computacionales  
+- **Matrícula:** Al03043935
+- **Carrera:** Ingeniería en Desarrollo de Software
 - **Semestre:** 8°  
 
 ## Datos de la asignatura
